@@ -1,0 +1,971 @@
+/* screen - article */
+
+.article {
+  align-items: center;
+  background-color: var(--black-haze);
+  border: 1px none;
+  display: flex;
+  flex-direction: column;
+  height: 5620px;
+  padding: 10px 0;
+  width: 1440px;
+}
+
+.article .flex-row {
+  align-items: center;
+  display: flex;
+  margin-left: 16.0px;
+  margin-top: 15px;
+  min-width: 1160px;
+}
+
+.article .navbar {
+  align-items: flex-start;
+  display: flex;
+  gap: 28px;
+  margin-left: 118px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .navbar-link {
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .overlap-group5 {
+  align-self: flex-start;
+  height: 90%;
+  margin-top: 2px;
+  position: relative;
+  width: 1348px;
+}
+
+.article .flex-col {
+  align-items: flex-end;
+  display: flex;
+  flex-direction: column;
+  left: 0;
+  min-height: 3504px;
+  position: absolute;
+  top: 47px;
+  width: 940px;
+}
+
+.article .navigation {
+  align-items: center;
+  align-self: center;
+  display: flex;
+  gap: 4px;
+  margin-right: 121.0px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .articles {
+  letter-spacing: 0;
+  line-height: 19.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .title-infoimation {
+  flex-direction: column;
+  gap: 16px;
+  margin-right: 40px;
+  margin-top: 60px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .bitcoin-has-fallen-b {
+  letter-spacing: 0;
+  line-height: 50.4px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 760px;
+}
+
+.article .navbar-1 {
+  align-items: flex-start;
+  align-self: stretch;
+  display: flex;
+  gap: 8px;
+  position: relative;
+}
+
+.article .number {
+  line-height: 19.6px;
+  margin-top: -1.00px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .tether-forged-docume {
+  letter-spacing: 0;
+  line-height: 50.4px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 760px;
+}
+
+.article .source-ap-photo-evan-vucci {
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .span1 {
+  text-decoration: underline;
+}
+
+.article .frame-410 {
+  align-items: center;
+  display: flex;
+  flex-direction: column;
+  gap: 40px;
+  margin-right: 40px;
+  margin-top: 60px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .kraken-exchange-plan {
+  letter-spacing: 0;
+  line-height: 38.4px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 760px;
+}
+
+.article .binance-has-disassoc {
+  color: var(--cod-gray);
+  font-family: var(--font-family-urbanist);
+  font-size: var(--font-size-xxl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 33.6px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 760px;
+}
+
+.article .paxos-and-binance-ha {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 760px;
+}
+
+.article .icon-play {
+  height: 25px;
+  width: 24px;
+}
+
+.article .coinbase-launched-a {
+  color: var(--cod-gray);
+  font-family: var(--font-family-urbanist);
+  font-size: var(--font-size-xl);
+  font-weight: 600;
+  letter-spacing: 0;
+  line-height: 28.0px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 760px;
+}
+
+.article .the-crypto435-campa {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 760px;
+}
+
+.article .read-also {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  min-width: 72px;
+  position: relative;
+  white-space: nowrap;
+}
+
+.article .bitcoin-cryptocurrency-rose-10 {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 760px;
+}
+
+.article .the-cryptocurrency-b {
+  width: 760px;
+}
+
+.article .place-for-the-transfer-list {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 760px;
+}
+
+.article .frame-41026 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 16px;
+  height: 160px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .x1-raath-also-report {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 544px;
+}
+
+.article .frame-41026-item {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  white-space: nowrap;
+  width: 760px;
+}
+
+.article .text {
+  line-height: 24px;
+  margin-bottom: -23.00px;
+  position: relative;
+  width: 760px;
+}
+
+.article .place-for-the-transfer-list-1 {
+  height: 25px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  white-space: nowrap;
+}
+
+.article .frame-41020 {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  position: relative;
+  width: 761px;
+}
+
+.article .the-cryptocurrency-e {
+  margin-top: -1.00px;
+  width: 479px;
+}
+
+.article .frame-410-1 {
+  align-items: center;
+  gap: 12px;
+  width: fit-content;
+}
+
+.article .software-revision-se {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 741px;
+}
+
+.article .danger-of-bugs-and-o {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 741px;
+}
+
+.article .ether-placed-in-spe {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 741px;
+}
+
+.article .this-is-the-first-st {
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: 741px;
+}
+
+.article .flex-row-1 {
+  align-items: center;
+  display: flex;
+  margin-right: 39.5px;
+  margin-top: 28px;
+  min-width: 754px;
+}
+
+.article .get-social {
+  height: 24px;
+  letter-spacing: 0;
+  line-height: 24px;
+  margin-bottom: 12.0px;
+  min-width: 76px;
+  white-space: nowrap;
+}
+
+.article .divider {
+  height: 3558px;
+  left: 940px;
+  object-fit: cover;
+  position: absolute;
+  top: 23px;
+  width: 1px;
+}
+
+.article .flex-col-1 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  left: 980px;
+  min-height: 745px;
+  position: absolute;
+  top: 118px;
+  width: 320px;
+}
+
+.article .immortal-jellyfish-g {
+  align-self: stretch;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: relative;
+}
+
+.article .overlap-group4 {
+  height: 23px;
+  left: 108px;
+  position: absolute;
+  top: 0;
+  width: 1240px;
+}
+
+.article .line-452 {
+  height: 2px;
+  left: 0;
+  position: absolute;
+  top: 21px;
+  width: 1240px;
+}
+
+.article .group-48098951 {
+  align-items: flex-end;
+  display: flex;
+  gap: 564px;
+  height: 22px;
+  justify-content: flex-end;
+  left: 200px;
+  min-width: 587px;
+  position: absolute;
+  top: 0;
+}
+
+.article .title {
+  margin-top: 99px;
+  min-width: 1160px;
+}
+
+.article .other-articles {
+  height: 45px;
+  letter-spacing: 0;
+  line-height: 44.8px;
+  margin-top: -1px;
+  white-space: nowrap;
+}
+
+.article .group-48098979 {
+  align-items: flex-start;
+  display: flex;
+  gap: 10px;
+  height: 530px;
+  margin-top: 40px;
+  min-width: 1160px;
+}
+
+.article .overlap-group {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 530px;
+  padding: 10px 0;
+  width: 381px;
+}
+
+.article .rectangle-4831 {
+  height: 220px;
+  object-fit: cover;
+  width: 361px;
+}
+
+.article .space-for-a-headline {
+  letter-spacing: 0;
+  line-height: 24.0px;
+  margin-top: -1.00px;
+  position: relative;
+  width: 333px;
+}
+
+.article .frame-4809883 {
+  align-items: flex-start;
+  display: flex;
+  gap: 16px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .description-for-the {
+  letter-spacing: 0;
+  line-height: 22.4px;
+  min-height: 66px;
+  width: 333px;
+}
+
+.article .frame-48098644 {
+  align-items: flex-start;
+  background-color: var(--blueberry-2);
+  border: 1px solid;
+  border-color: var(--blueberry);
+  border-radius: 300px;
+  display: flex;
+  min-width: 333px;
+}
+
+.article .read-now {
+  height: 50px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  margin-top: -1px;
+  text-align: center;
+  width: 333px;
+}
+
+.article .rectangle-4831-1 {
+  height: 220px;
+  width: 361px;
+}
+
+.article .overlap-group2 {
+  align-items: center;
+  background-color: var(--white);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  min-height: 530px;
+  padding: 10px 0;
+  width: 378px;
+}
+
+.article .rectangle-4831-2 {
+  height: 220px;
+  width: 358px;
+}
+
+.article .frame-48098644-1 {
+  align-items: flex-start;
+  background-color: var(--blueberry-2);
+  border: 1px solid;
+  border-color: var(--blueberry);
+  border-radius: 300px;
+  display: flex;
+  min-width: 330px;
+}
+
+.article .news-counter {
+  line-height: 18.9px;
+  min-height: 19px;
+  min-width: 146px;
+}
+
+.article .text-9 {
+  align-self: flex-end;
+  line-height: 50.4px;
+  min-width: 67px;
+}
+
+.article .button {
+  align-items: center;
+  background-color: var(--blueberry);
+  border-radius: 100px;
+  display: flex;
+  gap: 10px;
+  height: 50px;
+  justify-content: center;
+  margin-bottom: 5.0px;
+  margin-left: 558px;
+  padding: 10px 38px;
+  position: relative;
+  width: 220px;
+}
+
+.article .group-48098866 {
+  align-items: flex-start;
+  display: flex;
+  gap: 12px;
+  justify-content: flex-end;
+  margin-bottom: 0;
+  margin-left: 32px;
+  min-width: 132px;
+  padding: 0.0px 0;
+}
+
+.article .group-48098823 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  margin-top: 0;
+  min-width: 60px;
+  padding: 25.0px 26.0px;
+  transform: rotate(-180.00deg);
+}
+
+.article .polygon-1 {
+  height: 8px;
+  transform: rotate(180.00deg);
+  width: 6px;
+}
+
+.article .group-48098822 {
+  align-items: flex-start;
+  align-self: flex-end;
+  border: 1px solid;
+  border-color: var(--bon-jour);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  min-width: 60px;
+  padding: 25px 26px;
+}
+
+.article .polygon-1-1 {
+  height: 8px;
+  width: 6px;
+}
+
+.article .footer {
+  align-items: flex-start;
+  background-color: var(--alto);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: row;
+  flex-shrink: 1;
+  height: 1000px;
+  justify-content: flex-start;
+  margin-top: 100px;
+  min-width: 1420px;
+  mix-blend-mode: normal;
+  width: auto;
+}
+
+.article .overlap-group3 {
+  align-items: flex-start;
+  background-image: url(../img/rectangle-4796.png);
+  background-position: 50% 50%;
+  background-size: cover;
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+  min-height: 1000px;
+  padding: 0 114px;
+  width: 1420px;
+}
+
+.article .flex-row-2 {
+  align-items: flex-end;
+  display: flex;
+  gap: 440px;
+  height: 886px;
+  margin-top: 32px;
+  min-width: 1176px;
+}
+
+.article .x-container {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 639px;
+  min-height: 849px;
+  width: 176px;
+}
+
+.article .frame-48098796 {
+  align-items: center;
+  display: flex;
+  gap: 24px;
+  position: relative;
+  width: fit-content;
+}
+
+.article .group-48098750 {
+  height: 50px;
+  min-width: 50px;
+  position: relative;
+}
+
+.article .group-48098751 {
+  align-items: flex-start;
+  display: flex;
+  min-width: 52px;
+}
+
+.article .overlap-group-2 {
+  border: 1px solid;
+  border-color: var(--cod-gray-3);
+  border-radius: 25px;
+  height: 50px;
+  position: relative;
+  width: 50px;
+}
+
+.article .ellipse-4 {
+  height: 23px;
+  left: 35px;
+  position: absolute;
+  top: 2px;
+  width: 14px;
+}
+
+.article .number-1 {
+  left: 13px;
+  line-height: 25.2px;
+  position: absolute;
+  top: 11px;
+  width: 22px;
+}
+
+.article .group-48098993 {
+  -webkit-backdrop-filter: blur(10px) brightness(100%);
+  align-items: center;
+  align-self: flex-end;
+  backdrop-filter: blur(10px) brightness(100%);
+  background-color: var(--white-2);
+  border-radius: 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 15px;
+  min-height: 160px;
+  padding: 25px 0;
+  width: 160px;
+}
+
+.article .design-by-demyanchukart {
+  letter-spacing: 0;
+  line-height: 20.8px;
+  min-height: 44px;
+  position: relative;
+  text-align: center;
+  width: 128px;
+}
+
+.article .span1-1 {
+  line-height: 23.4px;
+}
+
+.article .this-should-leave-ro {
+  letter-spacing: 0;
+  line-height: 50.4px;
+  margin-top: 38px;
+  min-height: 101px;
+  width: 496px;
+}
+
+.article .vector-148 {
+  height: 18px;
+  margin-left: 140.0px;
+  margin-top: 10px;
+  width: 228px;
+}
+
+.article .social-media {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .frame-48098834 {
+  align-items: flex-start;
+  display: flex;
+  flex-direction: column;
+  gap: 24px;
+  position: relative;
+  width: 496px;
+}
+
+.article .group-4809896 {
+  height: 25px;
+  margin-right: -68.00px;
+  min-width: 564px;
+  position: relative;
+}
+
+.article .about {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.article .team {
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.article .line-51 {
+  height: 2px;
+  min-width: 496px;
+  position: relative;
+}
+
+.article .product {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.article .advisors {
+  left: 300px;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.article .features {
+  left: 0;
+  letter-spacing: 0;
+  line-height: 25.2px;
+  position: absolute;
+  top: 0;
+  white-space: nowrap;
+  width: 260px;
+}
+
+.article .news {
+  left: 300px;
+  line-height: 25.2px;
+  position: absolute;
+  top: 0;
+  width: 260px;
+}
+
+.article .social-media-1 {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .group-container {
+  align-items: center;
+  display: flex;
+  gap: 12px;
+  min-width: 276px;
+}
+
+.article .overlap-group-1 {
+  border-radius: 30px;
+  height: 60px;
+  position: relative;
+  width: 60px;
+}
+
+.article .icon-paper_plane {
+  height: 22px;
+  left: 19px;
+  position: absolute;
+  top: 19px;
+  transform: rotate(180.00deg);
+  width: 22px;
+}
+
+.article .ellipse-134 {
+  border: 1px solid;
+  border-color: var(--cod-gray);
+  border-radius: 30px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  width: 60px;
+}
+
+.article .frame-480988 {
+  align-items: flex-start;
+  border: 1px solid;
+  border-color: var(--cod-gray);
+  border-radius: 30px;
+  display: flex;
+  height: 60px;
+  min-width: 60px;
+  padding: 18.0px 18.0px;
+}
+
+.article .icon {
+  height: 22px;
+  transform: rotate(180.00deg);
+  width: 22px;
+}
+
+.article .ellipse-134-1 {
+  border: 1px solid;
+  border-color: var(--cod-gray);
+  border-radius: 30px;
+  height: 60px;
+  left: 0;
+  position: absolute;
+  top: 0;
+  transform: rotate(-180.00deg);
+  width: 60px;
+}
+
+.article .start-following-our-news {
+  letter-spacing: 0;
+  line-height: 25.2px;
+  margin-top: -1.00px;
+  position: relative;
+  white-space: nowrap;
+  width: fit-content;
+}
+
+.article .enter-your-email {
+  left: 32px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  position: absolute;
+  top: 19px;
+  white-space: nowrap;
+}
+
+.article .overlap-group-3 {
+  align-items: center;
+  background-color: var(--cod-gray);
+  border-radius: 65px;
+  display: flex;
+  height: 52px;
+  justify-content: flex-end;
+  min-width: 140px;
+  padding: 0 32px;
+}
+
+.article .subscribe {
+  height: 22px;
+  letter-spacing: 0;
+  line-height: 22.4px;
+  min-width: 75px;
+  text-align: center;
+  white-space: nowrap;
+}
+
+.article .copyright {
+  letter-spacing: 0;
+  line-height: 19.6px;
+  min-height: 20px;
+  min-width: 183px;
+  white-space: nowrap;
+}
+
+.article .privacy-policy {
+  letter-spacing: 0;
+  line-height: 19.6px;
+  min-height: 20px;
+  min-width: 90px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.article .terms-conditions {
+  letter-spacing: 0;
+  line-height: 19.6px;
+  min-height: 20px;
+  min-width: 125px;
+  text-decoration: underline;
+  white-space: nowrap;
+}
+
+.article .investingcom {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+  width: 760px;
+}
+
+.article .number-2 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.article .text-1 {
+  letter-spacing: 0;
+  white-space: nowrap;
+}
+
+.article .the-cryptocurrency {
+  letter-spacing: 0;
+  line-height: 24px;
+  position: relative;
+}
+
+.article .title-1 {
+  align-items: flex-start;
+  display: flex;
+}
+.menu{
+  color: black;
+
+}
